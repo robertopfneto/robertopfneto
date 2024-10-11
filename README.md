@@ -16,7 +16,7 @@ I'm currently a **PIBIC** research scholar at **Inovisão**, a lab specializing 
 
 ## 💻 Tech Stack
 
-<p align="left">
+<p align="center">
 
   <h5> Web Tech </h5>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
