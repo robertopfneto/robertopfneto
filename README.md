@@ -14,6 +14,14 @@ I'm currently a **PIBIC** research scholar at **Inovisão**, a lab specializing 
 - **Computer Vision Techniques**
 - **Back-End Development**
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=robertopfneto&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertopfneto&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+
 ## 💻 Tech Stack
 
 <div style="display: flex; justify-content: space-around;">
@@ -42,10 +50,4 @@ I'm currently a **PIBIC** research scholar at **Inovisão**, a lab specializing 
 
 </div>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=robertopfneto&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertopfneto&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
