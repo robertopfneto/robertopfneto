@@ -3,8 +3,9 @@
 
 Hi! I'm **Roberto Pereira de Freitas Neto**, an 18-year-old tech enthusiast passionate about innovation and coding.
 
-**Education**: Technical degree in Informatics from the Federal Institute of Mato Grosso do Sul  
-**Current Studies**: 2nd semester of Computer Science at Universidade Católica Dom Bosco (UCDB), Campo Grande - MS, Brazil
+**Education**: 
+- Technical degree in Informatics from the Federal Institute of Mato Grosso do Sul  
+- 2nd semester of Computer Science at Universidade Católica Dom Bosco (UCDB), Campo Grande - MS, Brazil
 
 ## 🧠 Expertise & Interests
 
