@@ -26,7 +26,7 @@ I'm currently a **PIBIC** research scholar at **Inovisão**, a lab specializing 
 
 <div style="display: flex; justify-content: space-around;">
   
-  <!-- Web Tech Container -->
+  <!--Web Tech Container-->
   <div align="center">
     <h3>Web Tech</h3>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
