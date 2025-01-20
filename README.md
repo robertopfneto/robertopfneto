@@ -14,6 +14,7 @@ I'm currently a **PIBIC** research scholar at **Inovisão**, a lab specializing 
 - **Machine Learning like Artificial Intelligence (AI)**
 - **Computer Vision Techniques**
 - **Back-End Development**
+- ** Python, Java, Flutter **
 
 
 <p align="center">
