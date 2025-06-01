@@ -1,27 +1,3 @@
-
-# 👋 Welcome to my GitHub Profile
-
-Hi! I'm **Roberto Pereira de Freitas Neto**, an 19-year-old tech enthusiast passionate about innovation and coding.
-
-**Education**: 
-- Technical degree in Informatics from the Federal Institute of Mato Grosso do Sul  
-- 3nd semester of Computer Science at Universidade Católica Dom Bosco (UCDB), Campo Grande - MS, Brazil.
-
-## 🧠 Expertise & Interests
-
-I'm currently a **PIBIC** research scholar at **Inovisão**, a lab specializing in cutting-edge computer vision research. My focus areas are:
-
-- **Machine Learning like Artificial Intelligence (AI)**
-- **Computer Vision Techniques**
-- **Back-End Development**
-
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertopfneto&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-
 ## 💻 Tech Stack
 
 <div style="display: flex; justify-content: space-around;">
@@ -44,10 +20,16 @@ I'm currently a **PIBIC** research scholar at **Inovisão**, a lab specializing 
   <!-- API Development Container -->
   <div align="center">
     <h3>API Development</h3>
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  </div>
+
+  <!-- Programming Languages -->
+  <div align="center">
+    <h3>Linguagens</h3>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white" />
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   </div>
 
 </div>
-
-
