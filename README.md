@@ -26,7 +26,7 @@
 
   <!-- Programming Languages -->
   <div align="center">
-    <h3>Linguagens</h3>
+    <h3>Programming Languages</h3>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white" />
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
@@ -34,7 +34,7 @@
 
   <!-- AI & Data Science -->
   <div align="center">
-    <h3>IA & Ciência de Dados</h3>
+    <h3>AI & Data Science</h3>
     <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
     <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
