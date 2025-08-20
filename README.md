@@ -1,63 +1,59 @@
-<!--
-  Perfil: github.com/robertopfneto
-  Tema: Pokémon - Grass (verde)
-  Observação: coloque a logo em ./assets/inovisão-logo.png
--->
-
 <div align="center">
 
-<img src="./assets/inovisão-logo.png" alt="Inovisão" width="68" align="right" />
+<img src="./assets/inovisao-logo.png" alt="Inovisão" width="68" align="right" />
 
 # 🌿 Roberto Pereira — *Grass-Type Dev*  
 
-<!-- Pokémon-style GitHub Profile Card -->
 ![GitHub Profile Card — Grass](https://profile-card-ten-green.vercel.app/api/card?username=robertopfneto&type=grass)
 
-<!-- Contador de visitantes -->
-![Visitantes](https://komarev.com/ghpvc/?username=robertopfneto&label=VISITANTES&style=for-the-badge&color=0E7A28)
+![Visitors](https://komarev.com/ghpvc/?username=robertopfneto&label=VISITORS&style=for-the-badge&color=0E7A28)
 
 </div>
 
 ---
 
-## 💬 Sobre mim
-Sou apaixonado por **Visão Computacional** e **IA aplicada ao agronegócio** (contagem/qualidade de sementes, detecção de pragas, etc.).  
-Curto pipelines reprodutíveis, experimentação séria e entregar **coisas úteis** do laboratório pro mundo real.
+## 💬 About Me
+I work with Computer Vision and Machine Learning across several projects, focusing on data analysis and deep learning for image detection, tracking, and classification, including applications such as seed counting and quality analysis, as well as pest detection in agriculture.
 
-- 🔭 Projetos: YOLOv8/CSRNet/DETR para contagem e detecção  
-- 📱 Protótipos: exportação p/ **TensorFlow Lite** e app Android offline  
-- ⚙️ Stack de dados: anotações COCO, slicing/tiling, métricas MAE/mAP
+I am passionate about building reproducible pipelines, conducting rigorous experimentation, and transforming research into practical solutions that can be applied in the real world.
 
 ---
 
-## 💻 Tech Stack (verde)
+## 💻 Tech Stack
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
 
 <div align="center">
+<h3>Web Tech</h3>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</div>
 
-<!-- Web Tech -->
-<img src="https://img.shields.io/badge/HTML5-0B5D1E?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-0E7A28?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-12A03E?style=for-the-badge&logo=javascript&logoColor=black" />
+<div align="center">
+<h3>Mobile Tech</h3>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+</div>
 
-<!-- Mobile / App -->
-<img src="https://img.shields.io/badge/Flutter-0E7A28?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Dart-0B5D1E?style=for-the-badge&logo=dart&logoColor=white" />
+<div align="center">
+<h3>API Development</h3>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+</div>
 
-<!-- APIs / Backends -->
-<img src="https://img.shields.io/badge/Django-0B5D1E?style=for-the-badge&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring_Boot-0E7A28?style=for-the-badge&logo=springboot&logoColor=white" />
-
-<!-- Languages -->
-<img src="https://img.shields.io/badge/Python-0B5D1E?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-0E7A28?style=for-the-badge&logo=c%2b%2b&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-12A03E?style=for-the-badge&logo=java&logoColor=white" />
+<div align="center">
+<h3>Programming Languages</h3>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+</div>
 
 </div>
 
 ---
 
-## 📫 Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-neto-60172b299)
+## 📫 Contact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-neto-60172b299)  
 [![GitHub](https://img.shields.io/badge/GitHub-0B5D1E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/robertopfneto)
 
 ---
