@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./assets/inovisao-logo.png" alt="Inovisão" width="68" align="right" />
-
 # 🌿 Roberto Pereira de Freitas Neto 
 
 ![GitHub Profile Card — Grass](https://profile-card-ten-green.vercel.app/api/card?username=robertopfneto&type=grass)
