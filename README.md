@@ -2,7 +2,7 @@
 
 <img src="./assets/inovisao-logo.png" alt="Inovisão" width="68" align="right" />
 
-# 🌿 Roberto Pereira — *Grass-Type Dev*  
+# 🌿 Roberto Pereira de Freitas Neto 
 
 ![GitHub Profile Card — Grass](https://profile-card-ten-green.vercel.app/api/card?username=robertopfneto&type=grass)
 
@@ -13,7 +13,7 @@
 ## 💬 About Me
 I work with Computer Vision and **Machine Learning across several projects, focusing on data analysis and deep learning for image detection, tracking, and classification — including applications such as seed counting, quality analysis, and pest detection in agriculture.  
 
-I am passionate about building reproducible pipelines, conducting rigorous experimentation, and transforming research into **practical solutions** that can be applied in the real world.
+I am passionate about building reproducible pipelines, conducting rigorous experimentation, and transforming research into practical solutions that can be applied in the real world.
 
 ---
 
