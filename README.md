@@ -20,7 +20,7 @@ I am passionate about building reproducible pipelines, conducting rigorous exper
 ---
 
 ## 💻 Tech Stack
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around;align="center"">
 
 <div align="center">
 <h3>Web Tech</h3>
