@@ -48,7 +48,6 @@ I am passionate about building reproducible pipelines, conducting rigorous exper
 
 ---
 
-### 🌱 Grovyle time  
 <img src="https://media.tenor.com/Pcl4nC4vzbcAAAAM/grovyle-uses-leaf-blade-grovyle.gif" alt="Grovyle using Leaf Blade" width="420"/>
 
 </div>
