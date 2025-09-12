@@ -2,7 +2,6 @@
 
 # 🌿 Roberto Pereira de Freitas Neto 
 
-![GitHub Profile Card — Grass](https://profile-card-ten-green.vercel.app/api/card?username=robertopfneto&type=grass)
 
 ![Visitors](https://komarev.com/ghpvc/?username=robertopfneto&label=VISITORS&style=for-the-badge&color=0E7A28)
 
