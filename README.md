@@ -8,7 +8,7 @@
 ---
 
 ## 💬 About Me
-I work with Computer Vision and Machine Learning across several projects, focusing on data analysis and deep learning for image detection, tracking, and classification — including applications such as seed counting, quality analysis, and pest detection in agriculture.  
+I work with Computer Vision and Machine Learning across several projects, focusing on data analysis and deep learning for image detection, tracking, and classification
 
 I am passionate about building reproducible pipelines, conducting rigorous experimentation, and transforming research into practical solutions that can be applied in the real world.
 
